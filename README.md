@@ -1,6 +1,7 @@
 # I write article on medium about this repo
 
 For fine-tuning stable diffusion : https://medium.com/@ravionaldoraffel/fine-tuning-stable-diffusion-with-dreambooth-and-varying-instance-prompts-b7acde20588d
+
 For generate images : https://medium.com/@ravionaldoraffel/generate-images-with-stable-diffusion-and-controlnet-7b0415e66a9b
 
 # Train stable diffusion
