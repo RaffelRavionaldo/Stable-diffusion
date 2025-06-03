@@ -1,3 +1,8 @@
+# I write article on medium about this repo
+
+For fine-tuning stable diffusion : https://medium.com/@ravionaldoraffel/fine-tuning-stable-diffusion-with-dreambooth-and-varying-instance-prompts-b7acde20588d
+For generate images : https://medium.com/@ravionaldoraffel/generate-images-with-stable-diffusion-and-controlnet-7b0415e66a9b
+
 # Train stable diffusion
 
 The code was in the train folder, it was an edited version of https://github.com/huggingface/diffusers/tree/main/examples/dreambooth code, The main difference between my code and Hugging Face's code is that my code can use more than 1 class to train, and each image has its own prompt.
